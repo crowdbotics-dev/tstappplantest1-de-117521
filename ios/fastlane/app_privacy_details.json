@@ -1,0 +1,11 @@
+[
+    {
+        "category": "EMAIL_ADDRESS",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
